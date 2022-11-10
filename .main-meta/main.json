@@ -1,0 +1,32 @@
+{
+	"metaDataVersion": "1.0.0",
+	"category": "com.microchip.hex.project",
+	"content": {
+		"metaDataVersion": "1.0.0",
+		"name": "com.microchip.mcu32.mplabx.project.demo.implicit.placeholders",
+		"version": "1.0.0",
+		"device": {
+			"metaDataVersion": "1.0.0",
+			"category": "com.microchip.portal.contentRef",
+			"content": {
+				"metaDataVersion": "1.0.0",
+				"category": "com.microchip.device",
+				"name": "placeholder-device",
+				"versionRange": "1.0.0"
+			}
+		},
+        "board": {
+			"metaDataVersion": "1.0.0",
+			"category": "com.microchip.portal.contentRef",
+			"content": {
+				"metaDataVersion": "1.0.0",
+				"category": "com.microchip.board",
+				"name": "WBZ451_CURIOSITY_BOARD",
+				"versionRange": "*"
+			}
+		},
+		"keywords": [
+            "wireless"
+		]
+	}
+}
